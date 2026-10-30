@@ -11,14 +11,14 @@ A EC11 rotary encoder for volume (or whatever else you'd like)
 
 # BOM
 
-1x PCB
-1x case
-4x Cherry MX-style switches
-1x EC11 Rotary Encoder
-6x DSA keycaps
-1x XIAO RP2040
-4x M3x16mm screws
-4x M3x5mx4mm heatset inserts
+- 1x PCB
+- 1x case
+- 4x Cherry MX-style switches
+- 1x EC11 Rotary Encoder
+- 6x DSA keycaps
+- 1x XIAO RP2040
+- 4x M3x16mm screws
+- 4x M3x5mx4mm heatset inserts
 
 # Schematic
 
