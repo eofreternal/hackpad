@@ -1,0 +1,6 @@
+I need a a3d mdoel I can export the PCb with the parts and then import into fusion360 so that I can see if it'll fit and stuff ain the custom caase
+
+switch.step file taken from https://github.com/ConstantinoSchillebeeckx/cherry-mx-switch/blob/master/switch.step
+
+
+Nevermind, I jsut exported all the switches and sccrews and whatnot from orpheuspad step file
